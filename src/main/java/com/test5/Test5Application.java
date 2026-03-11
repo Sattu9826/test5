@@ -10,6 +10,7 @@ public class Test5Application {
 		int a = 11;
 		int b = 21;
 		int c = 31;
+		int d =41;
 		
 		SpringApplication.run(Test5Application.class, args);
 	}
