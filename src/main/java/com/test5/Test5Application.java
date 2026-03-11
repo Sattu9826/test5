@@ -7,7 +7,15 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Test5Application {
 
 	public static void main(String[] args) {
-		int a=11;
+		int a = 11;
+		int b = 21;
+		int c = 31;
+
+		int d =41;
+		boolean z=true;
+		
+
+		
 		SpringApplication.run(Test5Application.class, args);
 	}
 
